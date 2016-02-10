@@ -1,6 +1,6 @@
-name             'node-npm'
+name             'NodePm2'
 maintainer       'Jeevan Dongre'
-maintainer_email 'jeevan.dongre@styletag.com'
+maintainer_email 'jeevan.dongre@gmail.com'
 license          'all_rights'
 description      'Installs/Configures node-npm'
 long_description 'Installs/Configures node-npm'
